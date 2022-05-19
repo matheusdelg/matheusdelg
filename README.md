@@ -1,7 +1,7 @@
 # Hi there! 👋
 ## Matheus Delgado de Azevedo (matheusdelg)
 
-I'm a Meachatronics Engineer, learning every day about software development. Working as a System Analyst/Programmer in CODE8734.
+I'm a Meachatronics Engineer, learning every day about software development. Working as a Software Developer at Datarisk.
 
 ### Favorite languages:
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img> 
@@ -14,8 +14,3 @@ I'm a Meachatronics Engineer, learning every day about software development. Wor
 - Guitar gears ⚡
 - Maths 🧮
 - Gardening 🌱
-
-### Get in touch:
-<!-- <a href=""><img src=""></img></a> -->
-<a href="https://twitter.com/MatheusDelg"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
-<a href="https://www.reddit.com/user/matheusdelg"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></img></a>
