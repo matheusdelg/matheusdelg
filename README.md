@@ -1,7 +1,7 @@
 # Hi there! 👋
 ## Matheus Delgado de Azevedo (matheusdelg)
 
-I'm a Meachatronics Engineer, learning every day about software development. Working as a Software Developer at Datarisk.
+I'm a Meachatronics Engineer, learning every day about software development. Working as a Data Engineer at Datarisk.
 
 ### Favorite languages:
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img> 
